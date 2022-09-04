@@ -1,0 +1,277 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "enunciado se1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado se2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado se4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado se5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado 1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "enunciado e1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado e2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado e3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado e4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado e5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "enunciado m1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado m5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "enunciado h1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado h5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Extra Hard",
+    "preguntas": [
+      {
+        "enunciado": "enunciado eh1",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh2",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh3",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh4",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "enunciado eh5",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  }
+]
