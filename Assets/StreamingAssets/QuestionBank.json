@@ -3,44 +3,44 @@
     "nombreDificultad": "Super Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado se1",
+        "enunciado": "¿Quien es el mejor tio del mundo?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Obviamente Fabián" },
+          { "texto": "Sancho Panza" },
+          { "texto": "Bob Patiño" },
+          { "texto": "Cualquier otro" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado se2",
+        "enunciado": "¿Cómo se llama el legendario gato que vive en la casa de los abuelos?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Garfield" },
+          { "texto": "Kuro-chan" },
+          { "texto": "Adrian el Chisky Roberts" },
+          { "texto": "Gary" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cómo se llama el gato malhumurado que vive en la casa de Tio Dany?",
+        "respuestas": [
+          { "texto": "Taz" },
+          { "texto": "Kid" },
+          { "texto": "Filipondio" },
+          { "texto": "Cuasimodo" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado se4",
+        "enunciado": "¿A quienes se les conoce como 'Los tortolitos'?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Ni idea de qué poner" },
+          { "texto": "Pues unos pajaros" },
+          { "texto": "Las mascotas de tio Dany" },
+          { "texto": "Matthew y Sami" }
         ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado se5",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
         "enunciado": "enunciado 1",
@@ -50,7 +50,7 @@
           { "texto": "answer 2" },
           { "texto": "answer 3" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       }
     ]
   },
