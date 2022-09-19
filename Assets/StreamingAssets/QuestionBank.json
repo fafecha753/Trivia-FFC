@@ -58,47 +58,47 @@
     "nombreDificultad": "Easy",
     "preguntas": [
       {
-        "enunciado": "enunciado e1",
+        "enunciado": "Aquien se le conoce como 'Mono Loco'",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Abuela Olga" },
+          { "texto": "Rocky" },
+          { "texto": "Momi" },
+          { "texto": "Tio Dany" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "A quien se le conoce por ser habil en las artes musicales?",
+        "respuestas": [
+          { "texto": "La Fer" },
+          { "texto": "Chisqui" },
+          { "texto": "Tio Diego" },
+          { "texto": "Abuelo Eliecer" }
         ],
         "respuestaCorrecta": 0
       },
       {
-        "enunciado": "enunciado e2",
+        "enunciado": "Quien es la futura bailarina, cantante y totola?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
+          { "texto": "Tia Jos" },
+          { "texto": "Matt" },
+          { "texto": "La Momi" },
           { "texto": "answer 3" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 2
       },
       {
-        "enunciado": "enunciado e3",
+        "enunciado": "Quien pedía un hermanito/a de nombre 'natilla'",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "La Fer" },
+          { "texto": "Sami" },
+          { "texto": "Matt" },
+          { "texto": "Tia Jos" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
-        "enunciado": "enunciado e4",
-        "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
-        ],
-        "respuestaCorrecta": 0
-      },
-      {
-        "enunciado": "enunciado e5",
+        "enunciado": "aa",
         "respuestas": [
           { "texto": "answer 0" },
           { "texto": "answer 1" },
@@ -113,24 +113,24 @@
     "nombreDificultad": "Medium",
     "preguntas": [
       {
-        "enunciado": "enunciado m1",
+        "enunciado": "Quien es el mundialmente conocido 'Gampirito'",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Rodolfo" },
+          { "texto": "Chisqui" },
+          { "texto": "Rocky" },
+          { "texto": "Matt" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 3
       },
       {
-        "enunciado": "enunciado m2",
+        "enunciado": "Quien cambio su equipo para volverse liguista por un día?",
         "respuestas": [
-          { "texto": "answer 0" },
-          { "texto": "answer 1" },
-          { "texto": "answer 2" },
-          { "texto": "answer 3" }
+          { "texto": "Matt" },
+          { "texto": "Sami" },
+          { "texto": "Fer" },
+          { "texto": "Momi" }
         ],
-        "respuestaCorrecta": 0
+        "respuestaCorrecta": 1
       },
       {
         "enunciado": "enunciado m3",
