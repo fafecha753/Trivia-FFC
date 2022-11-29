@@ -1,0 +1,222 @@
+[
+  {
+    "nombreDificultad": "Super Easy",
+    "preguntas": [
+      {
+        "enunciado": "¿Quien es el mejor tio del mundo?",
+        "respuestas": [
+          { "texto": "Obviamente Fabián" },
+          { "texto": "Sancho Panza" },
+          { "texto": "Bob Patiño" },
+          { "texto": "Cualquier otro" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cómo se llama el legendario gato que vive en la casa de los abuelos?",
+        "respuestas": [
+          { "texto": "Garfield" },
+          { "texto": "Kuro-chan" },
+          { "texto": "Adrian el Chisky Roberts" },
+          { "texto": "Gary" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Cómo se llama el gato malhumurado que vive en la casa de Tio Dany?",
+        "respuestas": [
+          { "texto": "Taz" },
+          { "texto": "Kid" },
+          { "texto": "Filipondio" },
+          { "texto": "Cuasimodo" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿A quienes se les conoce como 'Los tortolitos'?",
+        "respuestas": [
+          { "texto": "Ni idea de qué poner" },
+          { "texto": "Pues unos pajaros" },
+          { "texto": "Las mascotas de tio Dany" },
+          { "texto": "Matthew y Sami" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Qué pide Mati de comer cada vez que visita a la Abuela Olga?",
+        "respuestas": [
+          { "texto": "answer 0" },
+          { "texto": "answer 1" },
+          { "texto": "answer 2" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 1
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Easy",
+    "preguntas": [
+      {
+        "enunciado": "Aquien se le conoce como 'Mono Loco'",
+        "respuestas": [
+          { "texto": "Abuela Olga" },
+          { "texto": "Rocky" },
+          { "texto": "Momi" },
+          { "texto": "Tio Dany" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿A quien se le conoce por ser habil en las artes musicales?",
+        "respuestas": [
+          { "texto": "La Fer" },
+          { "texto": "Chisqui" },
+          { "texto": "Tio Diego" },
+          { "texto": "Abuelo Eliecer" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Quien es la futura bailarina, cantante y totola?",
+        "respuestas": [
+          { "texto": "Tia Jos" },
+          { "texto": "Matt" },
+          { "texto": "La Momi" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿Quien pedía un hermanito/a de nombre 'natilla'?",
+        "respuestas": [
+          { "texto": "La Fer" },
+          { "texto": "Sami" },
+          { "texto": "Matt" },
+          { "texto": "Tia Jos" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿A quienes se les conoce como 'Los tortolitos'?",
+        "respuestas": [
+          { "texto": "Ni idea de qué poner" },
+          { "texto": "Pues unos pajaros" },
+          { "texto": "Las mascotas de tio Dany" },
+          { "texto": "Matthew y Sami" }
+        ],
+        "respuestaCorrecta": 3
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Medium",
+    "preguntas": [
+      {
+        "enunciado": "Quien es el mundialmente conocido 'Gampirito'",
+        "respuestas": [
+          { "texto": "Rodolfo" },
+          { "texto": "Chisqui" },
+          { "texto": "Rocky" },
+          { "texto": "Matt" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "Quien cambio su equipo para volverse liguista por un día?",
+        "respuestas": [
+          { "texto": "Matt" },
+          { "texto": "Sami" },
+          { "texto": "Fer" },
+          { "texto": "Momi" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Quien come más mocos?",
+        "respuestas": [
+          { "texto": "Sami" },
+          { "texto": "Mati" },
+          { "texto": "Fer" },
+          { "texto": "Momi" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "¿A quien se le conoce por ser habil en las artes musicales?",
+        "respuestas": [
+          { "texto": "La Fer" },
+          { "texto": "Chisqui" },
+          { "texto": "Tio Diego" },
+          { "texto": "Abuelo Eliecer" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "¿Cómo se llama el gato malhumurado que vive en la casa de Tio Dany?",
+        "respuestas": [
+          { "texto": "Taz" },
+          { "texto": "Kid" },
+          { "texto": "Filipondio" },
+          { "texto": "Cuasimodo" }
+        ],
+        "respuestaCorrecta": 0
+      }
+    ]
+  },
+  {
+    "nombreDificultad": "Hard",
+    "preguntas": [
+      {
+        "enunciado": "¿Quien es el mejor tio del mundo?",
+        "respuestas": [
+          { "texto": "Obviamente Fabián" },
+          { "texto": "Sancho Panza" },
+          { "texto": "Bob Patiño" },
+          { "texto": "Cualquier otro" }
+        ],
+        "respuestaCorrecta": 0
+      },
+      {
+        "enunciado": "Quien es el mundialmente conocido 'Gampirito'",
+        "respuestas": [
+          { "texto": "Rodolfo" },
+          { "texto": "Chisqui" },
+          { "texto": "Rocky" },
+          { "texto": "Matt" }
+        ],
+        "respuestaCorrecta": 3
+      },
+      {
+        "enunciado": "¿Quien es la futura bailarina, cantante y totola?",
+        "respuestas": [
+          { "texto": "Tia Jos" },
+          { "texto": "Matt" },
+          { "texto": "La Momi" },
+          { "texto": "answer 3" }
+        ],
+        "respuestaCorrecta": 2
+      },
+      {
+        "enunciado": "Quien cambio su equipo para volverse liguista por un día?",
+        "respuestas": [
+          { "texto": "Matt" },
+          { "texto": "Sami" },
+          { "texto": "Fer" },
+          { "texto": "Momi" }
+        ],
+        "respuestaCorrecta": 1
+      },
+      {
+        "enunciado": "¿Cómo se llama el legendario gato que vive en la casa de los abuelos?",
+        "respuestas": [
+          { "texto": "Garfield" },
+          { "texto": "Kuro-chan" },
+          { "texto": "Adrian el Chisky Roberts" },
+          { "texto": "Gary" }
+        ],
+        "respuestaCorrecta": 2
+      }
+    ]
+  }
+]
